@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    color: white;
+    font-family: sans-serif;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.hero_sec {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./img/bg.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.button {
+    background-color: rgba(18, 18, 18, 1);
+}
+
+
+.button_1 {
+    width: 183px;
+    height: 44px;
+    left: 1657px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 50px;
+    background: rgb(160,0,241);
+    background: linear-gradient(59deg, rgba(160,0,241,1) 21%, rgba(93,47,142,1) 60%);
+    border: none;
+}
+
+
+.button_2 {
+    width: 169px;
+    height: 44px;
+    left: 312px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 50px ; 
+    background: rgb(241,0,39);
+    background: linear-gradient(59deg, rgba(241,0,39,1) 22%, rgba(101,45,137,1) 77%);
+    border: none;
+}
